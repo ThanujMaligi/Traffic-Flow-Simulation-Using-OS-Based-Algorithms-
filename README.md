@@ -7,9 +7,9 @@ This project simulates traffic flow at a four-way intersection, comparing system
 - **Course Name**: Operating Systems  
 - **Course Code**: 23AID213  
 - **Team Members**:
-  - Given Name Surname (GitHub: [github.com/Thanuj](https://github.com/ThanujMaligi))
-  - Given Name Surname (GitHub: [github.com/Nikhilesh](https://github.com/mikey9029)
-  - Given Name Surname (GitHub: [github.com/Jayavardhan](https://github.com/JAYYYYYYYYYYYYYYYYYYYYYYYYYY))
+  - (GitHub: [github.com/Thanuj](https://github.com/ThanujMaligi))
+  - (GitHub: [github.com/Nikhilesh](https://github.com/mikey9029))
+  - (GitHub: [github.com/Jayavardhan](https://github.com/JAYYYYYYYYYYYYYYYYYYYYYYYYYY))
 - **Project Guide**: Pooja Gowda
 
 ---
