@@ -22,31 +22,6 @@ Before running the simulation, ensure you have the following installed:
 
 ---
 
-## Installation
-
-Follow these steps to set up the project on your local machine:
-
-```bash
-# Clone the Repository
-git clone https://github.com/your-repo/traffic-flow-simulation.git
-cd traffic-flow-simulation
-
-# Set Up a Virtual Environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install Dependencies
-pip install pygame
-
-
-Running the Simulation
-To run the traffic flow simulation:
-
-# Navigate to the project directory
-cd traffic-flow-simulation
-
-# Run the main simulation script
-python main.py
 
 The Pygame window will open, displaying the four-way intersection simulation. You can observe traffic flow:
 
@@ -65,6 +40,44 @@ traffic-flow-simulation/
 └── report/                  # Project report, documentation, references
 
 
+
+
+
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+```bash
+pip install pygame
+```
+
+```bash
+# Clone the Repository
+git clone https://github.com/your-repo/traffic-flow-simulation.git
+cd traffic-flow-simulation
+```
+
+
+
+# Set Up a Virtual Environment (optional but recommended)
+```
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+
+
+Running the Simulation
+To run the traffic flow simulation:
+```
+# Navigate to the project directory
+cd traffic-flow-simulation
+
+# Run the main simulation script
+python main.py
+
+
+```
 
 Acknowledgments
 Inspired by OS scheduling concepts from our coursework.
