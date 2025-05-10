@@ -33,11 +33,53 @@ After OS Algorithms: FCFS and priority scheduling prioritize ambulances, with ma
 
 traffic-flow-simulation/
 │
-├── simulation.py            # Main simulation code with OS-based scheduling
-├── old_simulation.py        # Older simulation code (without OS algorithms)
-├── images/                  # Screenshots, output images, graphs
-├── ppt/                     # Final presentation slides
-└── report/                  # Project report, documentation, references
+├── simulation.py                  # Main simulation script with OS-based algorithms
+├── old_simulation.py              # Old version without OS scheduling
+│
+├── images/                        # Vehicle and traffic signal images
+│   ├── down/
+│   │   ├── ambulance.png
+│   │   ├── bike.png
+│   │   ├── bus.png
+│   │   ├── car.png
+│   │   └── rickshaw.png
+│   ├── left/
+│   │   ├── ambulance.png
+│   │   ├── bike.png
+│   │   ├── bus.png
+│   │   ├── car.png
+│   │   └── rickshaw.png
+│   ├── right/
+│   │   ├── ambulance.png
+│   │   ├── bike.png
+│   │   ├── bus.png
+│   │   ├── car.png
+│   │   └── rickshaw.png
+│   ├── up/
+│   │   ├── ambulance.png
+│   │   ├── bike.png
+│   │   ├── bus.png
+│   │   ├── car.png
+│   │   └── rickshaw.png
+│   └── signals/
+│       ├── green.png
+│       ├── yellow.png
+│       └── red.png
+│
+├── outputs/                       # Simulation result images and demo visuals
+│   ├── simulation-output1.png
+│   ├── simulation-output2.png
+│   ├── simulation-stats.png
+│   └── demo.png
+│
+├── ppt/                           # Final presentation slides
+│   └── Traffic-Flow-Simulation-PPT.pptx
+│
+├── report/                        # Project report
+│   └── OS-Based-Traffic-Simulation-Report.pdf
+│
+└── README.md                      # Project documentation (this file)
+
 
 
 
