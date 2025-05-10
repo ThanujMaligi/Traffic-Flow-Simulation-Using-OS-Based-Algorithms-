@@ -118,11 +118,16 @@ To run the traffic flow simulation:
 # Navigate to the project directory
 cd traffic-flow-simulation
 
-# Run the main simulation script
-python main.py
+# Run the main simulation script 
+python simulation.py
 
 
 ```
+
+## Project Video
+
+Watch the project demo here:
+
 
 Acknowledgments
 Inspired by OS scheduling concepts from our coursework.
