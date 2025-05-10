@@ -7,9 +7,9 @@ This project simulates traffic flow at a four-way intersection, comparing system
 - **Course Name**: Operating Systems  
 - **Course Code**: 23AID213  
 - **Team Members**:
-  - Given Name Surname (GitHub: [github.com/username1](https://github.com/username1))
-  - Given Name Surname (GitHub: [github.com/username2](https://github.com/username2))
-  - Given Name Surname (GitHub: [github.com/username3](https://github.com/username3))
+  - Given Name Surname (GitHub: [github.com/Thanuj](https://github.com/ThanujMaligi))
+  - Given Name Surname (GitHub: [github.com/Nikhilesh](https://github.com/mikey9029)
+  - Given Name Surname (GitHub: [github.com/Jayavardhan](https://github.com/JAYYYYYYYYYYYYYYYYYYYYYYYYYY))
 - **Project Guide**: Pooja Gowda
 
 ---
@@ -25,13 +25,6 @@ Before running the simulation, ensure you have the following installed:
 ## Installation
 
 Follow these steps to set up the project on your local machine:
-
-
-The Pygame window will open, displaying the four-way intersection simulation. You can observe traffic flow:
-
-Before OS Algorithms: Round-robin scheduling with no priority for emergency vehicles.
-
-After OS Algorithms: FCFS and priority scheduling prioritize ambulances, with maximum vehicles first for regular traffic.
 
 ```bash
 # Clone the Repository
@@ -55,13 +48,25 @@ cd traffic-flow-simulation
 # Run the main simulation script
 python main.py
 
+The Pygame window will open, displaying the four-way intersection simulation. You can observe traffic flow:
+
+Before OS Algorithms: Round-robin scheduling with no priority for emergency vehicles.
+
+After OS Algorithms: FCFS and priority scheduling prioritize ambulances, with maximum vehicles first for regular traffic.
 
 
 
 traffic-flow-simulation/
 │
-├── main.py                  # Entry point for the simulation
-├── traffic_controller.py   # Implements OS-based scheduling algorithms
-├── vehicle.py              # Defines vehicle classes and behavior
-├── intersection.py         # Models the intersection and signal synchronization
-└── logs/                   # Contains logs for vehicle counts and throughput
+├── simulation.py            # Main simulation code with OS-based scheduling
+├── old_simulation.py        # Older simulation code (without OS algorithms)
+├── images/                  # Screenshots, output images, graphs
+├── ppt/                     # Final presentation slides
+└── report/                  # Project report, documentation, references
+
+
+
+Acknowledgments
+Inspired by OS scheduling concepts from our coursework.
+
+Thanks to Pooja Gowda for her continuous guidance and support.
