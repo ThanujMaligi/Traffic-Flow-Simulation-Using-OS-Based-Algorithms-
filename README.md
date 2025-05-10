@@ -135,4 +135,4 @@ https://github.com/user-attachments/assets/a03f6b65-9c96-447b-8cfe-6f956d8895fd
 Acknowledgments
 Inspired by OS scheduling concepts from our coursework.
 
-Thanks to Pooja Gowda for her continuous guidance and support.
+Thanks to Pooja Gowda mam for her continuous guidance and support.
