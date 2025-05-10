@@ -26,6 +26,13 @@ Before running the simulation, ensure you have the following installed:
 
 Follow these steps to set up the project on your local machine:
 
+
+The Pygame window will open, displaying the four-way intersection simulation. You can observe traffic flow:
+
+Before OS Algorithms: Round-robin scheduling with no priority for emergency vehicles.
+
+After OS Algorithms: FCFS and priority scheduling prioritize ambulances, with maximum vehicles first for regular traffic.
+
 ```bash
 # Clone the Repository
 git clone https://github.com/your-repo/traffic-flow-simulation.git
@@ -48,3 +55,13 @@ cd traffic-flow-simulation
 # Run the main simulation script
 python main.py
 
+
+
+
+traffic-flow-simulation/
+│
+├── main.py                  # Entry point for the simulation
+├── traffic_controller.py   # Implements OS-based scheduling algorithms
+├── vehicle.py              # Defines vehicle classes and behavior
+├── intersection.py         # Models the intersection and signal synchronization
+└── logs/                   # Contains logs for vehicle counts and throughput
