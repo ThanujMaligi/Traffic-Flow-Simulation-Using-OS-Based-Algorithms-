@@ -69,16 +69,14 @@ traffic-flow-simulation/
 │       └── red.png
 │
 ├── outputs/                       # Simulation result images and demo visuals
-│   ├── simulation-output1.png
-│   ├── simulation-output2.png
-│   ├── simulation-stats.png
-│   └── demo.png
+│   ├── simulation.png
+│   ├── stats.png      
 │
-├── ppt/                           # Final presentation slides
-│   └── Traffic-Flow-Simulation-PPT.pptx
+├── Final Project Presentation.pptx                        # Final presentation slides
+│  
 │
-├── report/                        # Project report
-│   └── OS-Based-Traffic-Simulation-Report.pdf
+├── OS Report.pdf                       # Project report
+│   
 │
 └── README.md                      # Project documentation (this file)
 ```
@@ -127,6 +125,11 @@ python simulation.py
 ## Project Video
 
 Watch the project demo here:
+
+
+
+https://github.com/user-attachments/assets/a03f6b65-9c96-447b-8cfe-6f956d8895fd
+
 
 
 Acknowledgments
