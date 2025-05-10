@@ -1,6 +1,3 @@
-# Traffic-Flow-Simulation-Using-OS-Based-Algorithms-
-
-
 # Traffic Flow Simulation Using OS-Based Algorithms
 
 ## Overview
