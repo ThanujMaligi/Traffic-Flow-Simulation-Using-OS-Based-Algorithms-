@@ -30,7 +30,9 @@ Before OS Algorithms: Round-robin scheduling with no priority for emergency vehi
 After OS Algorithms: FCFS and priority scheduling prioritize ambulances, with maximum vehicles first for regular traffic.
 
 
+## 📁 Project Structure
 
+```text
 traffic-flow-simulation/
 │
 ├── simulation.py                  # Main simulation script with OS-based algorithms
@@ -79,6 +81,7 @@ traffic-flow-simulation/
 │   └── OS-Based-Traffic-Simulation-Report.pdf
 │
 └── README.md                      # Project documentation (this file)
+```
 
 
 
