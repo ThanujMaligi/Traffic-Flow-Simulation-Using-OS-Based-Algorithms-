@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.env
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+ml_debug.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model/video files (optional — comment out if you want to track them)
+# yolov8n.pt
+# traffic_video.mp4
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
