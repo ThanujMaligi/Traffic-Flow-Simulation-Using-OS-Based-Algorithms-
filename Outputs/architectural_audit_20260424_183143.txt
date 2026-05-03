@@ -1,0 +1,10 @@
+Lane-wise Vehicle Counts
+Lane 1: 89
+Lane 2: 89
+Lane 3: 44
+Lane 4: 30
+Total vehicles passed: 252
+Total time passed: 300
+No. of vehicles passed per unit time: 0.84
+Average Wait Time: 43.12s
+Average Emergency Response Time: 0.00s
