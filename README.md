@@ -125,20 +125,4 @@ Key output plots generated:
 - `emergency_response_plot.png` — Emergency vehicle preemption timing
 - `algorithm_usage_plot.png` — Algorithm usage breakdown
 
----
 
-## 🎓 Course Details
-
-- **Course**: Operating Systems — `23AID213`
-- **Guide**: Pooja Gowda
-- **Team**:
-  - [Thanuj](https://github.com/ThanujMaligi)
-  - [Nikhilesh](https://github.com/mikey9029)
-  - [Jayavardhan](https://github.com/JAYYYYYYYYYYYYYYYYYYYYYYYYYY)
-
----
-
-## 🙏 Acknowledgements
-
-Thanks to **Pooja Gowda ma'am** for her continuous guidance and support throughout the project.
-Inspired by OS scheduling concepts applied to real-world traffic management systems.
